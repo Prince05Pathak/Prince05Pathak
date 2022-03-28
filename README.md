@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prince05Pathak
+- 👋 Hi, I’m @PrincePathak
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning Python and c++
 - 💞️ I’m looking to collaborate on python
