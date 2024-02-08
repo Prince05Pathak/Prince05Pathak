@@ -1,8 +1,8 @@
 - 👋 Hi, I’m PrincePathak
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Python and c++
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me conatct me here
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on Front end web developmet and Core Java Programming 
+- 📫 How to reach me contact me here
 
 <!---
 Prince05Pathak/Prince05Pathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
